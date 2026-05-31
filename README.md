@@ -23,7 +23,7 @@ Estudo AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos práticos de autom
 <td width="30%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" width="140"/>
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp"/>
 </td>
 
 </tr>
