@@ -9,7 +9,7 @@ Profissional de TI com mais de 3 anos em Suporte Técnico, em transição para C
 
 *IT professional with 3+ years in Technical Support, transitioning into Cloud, Monitoring and Cybersecurity. Studying AWS CLF-C02 and building AI automation projects.*
 
-> *"Navegar é preciso — e os dados são o meu mapa."* 🗺️
+> *"If it’s connected, it’s vulnerable."* 🗺️
 
 </div>
 
