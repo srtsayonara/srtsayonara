@@ -3,32 +3,25 @@
 
 <table>
 <tr>
-
-<td width="70%" valign="top">
+<td width="100%" valign="top">
 
 ### Sobre mim / About me
 
 Estudante de TI com mais de 3 anos de experiência em Suporte Técnico, atualmente em transição para Cloud Computing, Monitoramento de Infraestrutura e Cibersegurança.
-
 Estudo AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos práticos de automação e IA aplicada a operações de infraestrutura.
 
 *IT student with 3+ years of experience in Technical Support, transitioning into Cloud Computing, Infrastructure Monitoring and Cybersecurity.*
-
 *Currently preparing for AWS Cloud Practitioner (CLF-C02) and building hands-on projects in automation and AI for infrastructure operations.*
 
 > *"If it's connected, it's vulnerable."* 🗺️
 
 </td>
-
 <td width="30%" align="center" valign="middle">
-
 <img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" width="140"/>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp"/>
 </td>
-
 </tr>
 </table>
-
 </div>
 ---
 
