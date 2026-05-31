@@ -5,7 +5,7 @@
 
 ### Sobre mim / About me
 
-Profissional de TI com mais de 3 anos em Suporte Técnico, em transição para Cloud, Monitoramento e Cibersegurança. Estudo AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos de automação com IA aplicada à infraestrutura.
+Estudante de TI com mais de 3 anos em Suporte Técnico, em transição para Cloud, Monitoramento e Cibersegurança. Estudo AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos de automação com IA aplicada à infraestrutura.
 
 *IT professional with 3+ years in Technical Support, transitioning into Cloud, Monitoring and Cybersecurity. Studying AWS CLF-C02 and building AI automation projects.*
 
