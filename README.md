@@ -38,7 +38,7 @@
 <!-- MARIE + SOBRE MIM -->
 <div align="left">
 
-<img align="left" src="https://media0.giphy.com/media/p0Zgq6zRrjiak/giphy.gif" width="155" alt="Marie Aristocats" style="border-radius:16px; margin-right:20px;"/>
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp" width="155" alt="Marie Aristocats" style="border-radius:16px; margin-right:20px;"/>
 
 ### Sobre mim / About me
 
