@@ -1,59 +1,90 @@
+<!-- BANNER ANIMADO EM DEGRADÊ LARANJA -->
+<div align="center">
 
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF4500;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF8C00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B00;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#FFB347;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="url(#orangeGrad)" rx="12"/>
+  <path d="M0 80 Q200 40 400 80 Q600 120 800 60 L800 120 L0 120 Z" fill="url(#waveGrad)" opacity="0.5">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="M0 80 Q200 40 400 80 Q600 120 800 60 L800 120 L0 120 Z;
+              M0 60 Q200 100 400 60 Q600 20 800 80 L800 120 L0 120 Z;
+              M0 80 Q200 40 400 80 Q600 120 800 60 L800 120 L0 120 Z"/>
+  </path>
+  <text x="400" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" opacity="0.95">
+    Carla Sayonara Freitas 🧡
+  </text>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white" opacity="0.85">
+    Cloud · Monitoring · Cybersecurity · NOC
+  </text>
+</svg>
+
+<!-- TYPING SVG ANIMADO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=☁️+Cloud+Computing+%7C+AWS+CLF-C02;📡+Monitoring+%7C+Grafana+%2B+Prometheus;🔒+Cybersecurity+%7C+Blue+Team+%7C+NOC;⚙️+Automation+%7C+Python+%2B+IA;🚀+Always+learning%2C+always+building!)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- MARIE + SOBRE MIM -->
 <div align="left">
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<img align="left" src="https://media0.giphy.com/media/p0Zgq6zRrjiak/giphy.gif" width="155" alt="Marie Aristocats" style="border-radius:16px; margin-right:20px;"/>
 
 ### Sobre mim / About me
 
 Estudante de TI com mais de 3 anos de experiência em Suporte Técnico, atualmente em transição para Cloud Computing, Monitoramento de Infraestrutura e Cibersegurança.
-Estudo AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos práticos de automação e IA aplicada a operações de infraestrutura.
+
+Estudo para a certificação AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos práticos de automação e IA aplicada a operações de infraestrutura.
 
 *IT student with 3+ years of experience in Technical Support, transitioning into Cloud Computing, Infrastructure Monitoring and Cybersecurity.*
-*Currently preparing for AWS Cloud Practitioner (CLF-C02) and building hands-on projects in automation and AI for infrastructure operations.*
 
-> *"If it's connected, it's vulnerable."* 🗺️
+> *"If it's connected, it's vulnerable."* 🧡
 
-</td>
-<td width="30%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" width="140"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp"/>
-</td>
-</tr>
-</table>
 </div>
+
+<br clear="left"/>
+
 ---
 
-### ☁ Cloud
+### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-E91E8C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-E91E8C?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-E91E8C?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-E91E8C?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF4500?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-FF6B00?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-FF8C00?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FFA500?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📡 Monitoramento
 
-![Grafana](https://img.shields.io/badge/Grafana-C2185B?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-C2185B?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-FF4500?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### 🔒 Segurança & Redes
 
-![Linux](https://img.shields.io/badge/Linux-F48FB1?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-F48FB1?style=for-the-badge&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-F48FB1?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-F48FB1?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-FF6B00?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-FF8C00?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FFA500?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 💻 Sistemas & ITSM
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-E91E8C?style=for-the-badge&logo=servicenow&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-E91E8C?style=for-the-badge&logo=salesforce&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FF4500?style=for-the-badge&logo=servicenow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-FF8C00?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### ⚙ Automação & Scripting
+### ⚙️ Automação & Scripting
 
-![Python](https://img.shields.io/badge/Python-C2185B?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-C2185B?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-C2185B?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4500?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF6B00?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FF8C00?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -69,22 +100,29 @@ Estudo AWS Cloud Practitioner (CLF-C02) e desenvolvo projetos práticos de autom
 
 ### 📚 Certificações / Certifications
 
-![Cisco](https://img.shields.io/badge/Cisco_Defesa_de_Redes-E91E8C?style=flat&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Suporte_de_Redes-E91E8C?style=flat&logo=cisco&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe_CyberSecurity_101-C2185B?style=flat&logo=tryhackme&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe_SOC_Level_1-C2185B?style=flat&logo=tryhackme&logoColor=white)
-![FIAP](https://img.shields.io/badge/Linux_Fundamentos_FIAP-F48FB1?style=flat&logo=linux&logoColor=white)
-![Bradesco](https://img.shields.io/badge/Segurança_da_Informação_Bradesco-E91E8C?style=flat&logoColor=white)
-![PUCRS](https://img.shields.io/badge/Compliance_%26_Dados_PUCRS-C2185B?style=flat&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_CLF--C02_%F0%9F%94%84_em_andamento-E91E8C?style=flat&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Defesa_de_Redes-FF4500?style=flat&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Suporte_de_Redes-FF6B00?style=flat&logo=cisco&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe_CyberSecurity_101-FF8C00?style=flat&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe_SOC_Level_1-FFA500?style=flat&logo=tryhackme&logoColor=white)
+![FIAP](https://img.shields.io/badge/Linux_Fundamentos_FIAP-FF4500?style=flat&logo=linux&logoColor=white)
+![Bradesco](https://img.shields.io/badge/Segurança_da_Informação_Bradesco-FF6B00?style=flat&logoColor=white)
+![PUCRS](https://img.shields.io/badge/Compliance_%26_Dados_PUCRS-FF8C00?style=flat&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_CLF--C02_🔄_em_andamento-FFA500?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srtsayonara&show_icons=true&title_color=C2185B&icon_color=E91E8C&text_color=880E4F&border_color=F48FB1&bg_color=FCE4EC)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtsayonara&layout=compact&title_color=C2185B&text_color=880E4F&border_color=F48FB1&bg_color=FCE4EC)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srtsayonara&show_icons=true&title_color=FF4500&icon_color=FF8C00&text_color=FF6B00&border_color=FFA500&bg_color=FFF8F0)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtsayonara&layout=compact&title_color=FF4500&text_color=FF6B00&border_color=FFA500&bg_color=FFF8F0)
+
+<!-- SNAKE ANIMATION -->
+![Snake animation](https://github.com/srtsayonara/srtsayonara/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -96,8 +134,10 @@ Disponível para oportunidades remotas em **Cloud · NOC · Suporte N2 · Cibers
 
 *Open to remote roles in Cloud · NOC · N2 Support · Cybersecurity*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carla-sayonara-freitas-33599b183)
-[![GitHub](https://img.shields.io/badge/GitHub-C2185B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srtsayonara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carla-sayonara-freitas-33599b183)
+[![GitHub](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srtsayonara)
+
+![Profile Views](https://komarev.com/ghpvc/?username=srtsayonara&color=FF8C00&style=flat-square&label=Profile+Views)
 
 </div>
 <!--
