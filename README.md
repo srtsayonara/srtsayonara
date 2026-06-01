@@ -113,11 +113,6 @@ Estudo para a certificação AWS Cloud Practitioner (CLF-C02) e desenvolvo proje
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srtsayonara&show_icons=true&title_color=FF4500&icon_color=FF8C00&text_color=FF6B00&border_color=FFA500&bg_color=FFF8F0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtsayonara&layout=compact&title_color=FF4500&text_color=FF6B00&border_color=FFA500&bg_color=FFF8F0)
 
 <!-- SNAKE ANIMATION -->
 ![Snake animation](https://github.com/srtsayonara/srtsayonara/blob/output/github-contribution-grid-snake-dark.svg)
