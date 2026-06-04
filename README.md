@@ -98,18 +98,6 @@ Estudo para a certificação AWS Cloud Practitioner (CLF-C02) e desenvolvo proje
 
 ---
 
-### 📚 Certificações / Certifications
-
-![Cisco](https://img.shields.io/badge/Cisco_Defesa_de_Redes-FF4500?style=flat&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Suporte_de_Redes-FF6B00?style=flat&logo=cisco&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe_CyberSecurity_101-FF8C00?style=flat&logo=tryhackme&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe_SOC_Level_1-FFA500?style=flat&logo=tryhackme&logoColor=white)
-![FIAP](https://img.shields.io/badge/Linux_Fundamentos_FIAP-FF4500?style=flat&logo=linux&logoColor=white)
-![Bradesco](https://img.shields.io/badge/Segurança_da_Informação_Bradesco-FF6B00?style=flat&logoColor=white)
-![PUCRS](https://img.shields.io/badge/Compliance_%26_Dados_PUCRS-FF8C00?style=flat&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_CLF--C02_🔄_em_andamento-FFA500?style=flat&logo=amazonaws&logoColor=white)
-
----
 
 ### 📊 GitHub Stats
 
