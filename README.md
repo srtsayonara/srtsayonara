@@ -37,11 +37,11 @@
 
 -----
 
-<!-- MARIE + SOBRE MIM -->
+<!-- MARIE (REDONDO) + SOBRE MIM -->
 
 <div align="left">
 
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp" width="155" alt="Marie Aristocats" style="border-radius:16px; margin-right:20px;"/>
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp" width="155" alt="Marie Aristocats" style="border-radius:50%; margin-right:20px;"/>
 
 ### Sobre mim / About me
 
@@ -61,33 +61,35 @@
 
 ### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+</p>
 
 ### 📡 Monitoramento
 
-![Grafana](https://img.shields.io/badge/-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
 
 ### 🔒 Segurança & Redes
 
-![Linux](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-214A80?style=for-the-badge&logo=nmap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,nmap" />
+</p>
 
 ### 💻 Sistemas & ITSM
 
-![ServiceNow](https://img.shields.io/badge/-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=servicenow,salesforce" />
+</p>
 
 ### ⚙️ Automação & Scripting
 
-![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
+</p>
 
 -----
 
@@ -107,8 +109,6 @@
 
 ![Snake animation](https://github.com/srtsayonara/srtsayonara/blob/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
 -----
 
 <div align="center">
@@ -125,7 +125,6 @@ Disponível para oportunidades remotas em **Cloud · NOC · Suporte N2 · Cibers
 ![Profile Views](https://komarev.com/ghpvc/?username=srtsayonara&color=FF8C00&style=flat-square&label=Profile+Views)
 
 </div>
-
 <!--
 **srtsayonara/srtsayonara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
