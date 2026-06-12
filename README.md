@@ -61,33 +61,33 @@
 
 ### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-FF6B00?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/-FF8C00?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-FFA500?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📡 Monitoramento
 
-![Grafana](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-FF8C00?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### 🔒 Segurança & Redes
 
-![Linux](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-FF6B00?style=for-the-badge&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-FF8C00?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-FFA500?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-214A80?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 💻 Sistemas & ITSM
 
-![ServiceNow](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=servicenow&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-FF8C00?style=for-the-badge&logo=salesforce&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### ⚙️ Automação & Scripting
 
-![Python](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-FF6B00?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-FF8C00?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 -----
 
