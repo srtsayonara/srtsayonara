@@ -90,8 +90,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
-</p>
-
+  <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n" />
+</P>
 -----
 
 ### 🚀 Projetos / Projects
