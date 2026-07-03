@@ -25,7 +25,7 @@
     Carla Sayonara Freitas 🧡
   </text>
   <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white" opacity="0.85">
-    Cloud · Monitoring · Cybersecurity · NOC
+   AWS Cloud · Agentes de IA
   </text>
 </svg>
 
