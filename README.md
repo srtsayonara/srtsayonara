@@ -77,6 +77,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,nmap" />
 </p>
 
