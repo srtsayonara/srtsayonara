@@ -43,9 +43,9 @@
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp" width="155" alt="Marie Aristocats" style="border-radius:50%; margin-right:20px;"/>
 
-$$
-\color{deeppink}{\Huge\textbf{Sobre mim / About me}}
-$$
+
+$\color{deeppink}{\Huge\textbf{Sobre mim / About me}}$
+
 
 <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:6px"><rect width="14" height="14" rx="3" fill="#FF8C00"/></svg> Estudante de TI com mais de 3 anos de experiência em Suporte Técnico, atualmente focado em AWS Cloud, Automação e Engenharia de Agentes de IA.
 
