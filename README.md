@@ -48,7 +48,6 @@
 <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:6px"><rect width="14" height="14" rx="3" fill="#FF8C00"/></svg> Estudante de TI com mais de 3 anos de experiência em Suporte Técnico, atualmente focado em AWS Cloud, Automação e Engenharia de Agentes de IA.
 
 <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:6px"><rect width="14" height="14" rx="3" fill="#FF8C00"/></svg> Desenvolvendo projetos práticos com Python, Agentes de IA, RAG (Retrieval-Augmented Generation), automação de processos e integrações entre APIs.
-> Estudando para a certificação AWS Cloud Practitioner (CLF-C02) enquanto aprofundo meus conhecimentos em computação em nuvem e soluções baseadas em IA.
 
 <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:6px"><rect width="14" height="14" rx="3" fill="#FF8C00"/></svg> Tenho experiência em suporte técnico, monitoramento de infraestrutura e fundamentos de segurança da informação, que servem como base para a construção de soluções modernas em Cloud e IA.
 
@@ -99,7 +98,7 @@
 
 |Projeto                                                                                            |Descrição                                                  |Status     |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------|
-|🤖 Agente de Automação com IA                                                                       |Automação com IA aplicada a monitoramento de infraestrutura|`em dev`   |
+|🤖 [Agente de Automação com IA](https://github.com/srtsayonara/Agentes-de-IA-com-LangGraph)                                                                  |Aplicado ao uso de Bibiotecas com LangGraph|`em dev`   |
 |🔐 [Treinamento LGPD & Compliance](https://github.com/srtsayonara/treinamento-lgpd-compliance-etica)|Aplicado a 28 colaboradores com estudo de caso completo    |`concluído`|
 |🌐 [Lab Redes LAN — Packet Tracer](https://github.com/srtsayonara/laboratorios-suporte-defesa-redes)|Infraestrutura simulando ambiente real corporativo         |`concluído`|
 
