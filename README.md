@@ -43,7 +43,9 @@
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3MDhlc3dyZXN5cXV3NDZ1c3o5OXlic3o0YjZpcDhmcm5nb2QzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lN43HqgTKEczYIPMnK/giphy.webp" width="155" alt="Marie Aristocats" style="border-radius:50%; margin-right:20px;"/>
 
-### Sobre mim / About me
+$$
+\color{deeppink}{\Huge\textbf{Sobre mim / About me}}
+$$
 
 <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:6px"><rect width="14" height="14" rx="3" fill="#FF8C00"/></svg> Estudante de TI com mais de 3 anos de experiência em Suporte Técnico, atualmente focado em AWS Cloud, Automação e Engenharia de Agentes de IA.
 
@@ -59,46 +61,49 @@
 
 -----
 
-### ☁️ Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+<div align="center">
+
+$\color{deeppink}{\Huge\textbf{🛠️ Ferramentas e Tecnologias}}$
+
+</div>
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="48" />
+
+  <!-- Programação -->
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell" height="48" />
+
+  <!-- Versionamento -->
+  <img src="https://skillicons.dev/icons?i=git,github" height="48" />
+
+  <!-- IDE -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+
+  <!-- Containers / Infra -->
+  <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,kubernetes" height="48" />
+
+  <!-- Automação -->
+  <img src="https://cdn.simpleicons.org/n8n" height="48" />
+
+  <!-- Observabilidade -->
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="48" />
+
+  <!-- Segurança -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,nmap" height="48" />
+
 </p>
 
-### 📡 Monitoramento
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
+$\color{deeppink}{\Huge\textbf{🚀 Projetos}}$
 
-### 🔒 Segurança & Redes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-  </p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,nmap" />
-</p>
-
-### 💻 Sistemas & ITSM
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=servicenow,salesforce" />
-</p>
-
-### ⚙️ Automação & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
-  <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n" />
-</P>
------
-
-### 🚀 Projetos / Projects
+</div>
 
 |Projeto                                                                                            |Descrição                                                  |Status     |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------|
-|🤖 [Agente de Automação com IA](https://github.com/srtsayonara/Agentes-de-IA-com-LangGraph)                                                                  |Aplicado ao uso de Bibiotecas com LangGraph|`em dev`   |
+|🤖 [Agente de Automação com IA](https://github.com/srtsayonara/Agentes-de-IA-com-LangGraph)                                                                  |Aplicado ao uso de Bibiotecas com LangGraph|`Concluído`   |
 |🔐 [Treinamento LGPD & Compliance](https://github.com/srtsayonara/treinamento-lgpd-compliance-etica)|Aplicado a 28 colaboradores com estudo de caso completo    |`concluído`|
 |🌐 [Lab Redes LAN — Packet Tracer](https://github.com/srtsayonara/laboratorios-suporte-defesa-redes)|Infraestrutura simulando ambiente real corporativo         |`concluído`|
 
@@ -116,9 +121,7 @@
 
 📍 Aracaju, SE · Brasil
 
-Disponível para oportunidades remotas em **Cloud · NOC · Suporte N2 · Cibersegurança**
-
-*Open to remote roles in Cloud · NOC · N2 Support · Cybersecurity*
+Disponível para oportunidades remotas em **Cloud · NOC · Suporte N2 · Automação com IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carla-sayonara-freitas-33599b183)
 [![GitHub](https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srtsayonara)
